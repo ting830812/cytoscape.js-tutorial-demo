@@ -15,19 +15,19 @@
         }
     },
     {
-        "selector": "node[type="disease"]",
+        "selector": "node[type='disease']",
         "style": {
           "background-color": "#AAEEAA"
         }
     },
     {
-        "selector": "node[type="gene"]",
+        "selector": "node[type='gene']",
         "style": {
           "background-color": "#EEEEAA"
         }
     },
     {
-        "selector": "node[type="variant"]",
+        "selector": "node[type='variant']",
         "style": {
           "background-color": "#EEAAAA"
         }

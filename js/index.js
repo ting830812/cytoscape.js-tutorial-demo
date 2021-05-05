@@ -110,7 +110,7 @@
         startAngle: Math.PI * 1 / 6
       },
       custom: { // replace with your own layout parameters
-        name: 'cloa',
+        name: 'cola',
         nodeSpacing: 5,
         edgeLengthVal: 45,
         animate: true,
