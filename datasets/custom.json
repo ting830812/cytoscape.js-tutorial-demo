@@ -5,7 +5,7 @@
         "name": "axonal loss",
         "type": "disease"
     },
-    "group": "nodes",
+    "group": "nodes"
 },
 {
     "data": {
@@ -13,7 +13,7 @@
         "name": "demyelination",
         "type": "disease"
     },
-    "group": "nodes",
+    "group": "nodes"
 },
 {
     "data": {
@@ -21,7 +21,7 @@
         "name": "partial epilepsy",
         "type": "disease"
     },
-    "group": "nodes",
+    "group": "nodes"
 },
 {
     "data": {
@@ -29,7 +29,7 @@
         "name": "myokymia",
         "type": "disease"
     },
-    "group": "nodes",
+    "group": "nodes"
 },
 {
     "data": {
@@ -37,7 +37,7 @@
         "name": "ataxic episodes",
         "type": "disease"
     },
-    "group": "nodes",
+    "group": "nodes"
 },
 {
     "data": {
@@ -45,7 +45,7 @@
         "name": "R120Q",
         "type": "variant"
     },
-    "group": "nodes",
+    "group": "nodes"
 },
 {
     "data": {
@@ -53,7 +53,7 @@
         "name": "Q163X",
         "type": "variant"
     },
-    "group": "nodes",
+    "group": "nodes"
 },
 {
     "data": {
@@ -61,7 +61,7 @@
         "name": "colorectal adenomas",
         "type": "disease"
     },
-    "group": "nodes",
+    "group": "nodes"
 },
 {
     "data": {
@@ -69,7 +69,7 @@
         "name": "E1317Q",
         "type": "variant"
     },
-    "group": "nodes",
+    "group": "nodes"
 },
 {
     "data": {
@@ -85,7 +85,7 @@
         "name": "cause",
         "orig_sent": "Both the Q163X and the R120Q mutation cause demyelination and axonal loss."
     },
-    "group": "edges",
+    "group": "edges"
 },
 {
     "data": {
@@ -94,7 +94,7 @@
         "name": "associated with",
         "orig_sent": "E1317Q is significantly associated with multiple colorectal adenomas (OR = 11."
     },
-    "group": "edges",
+    "group": "edges"
 },
 {
     "data": {
@@ -103,7 +103,7 @@
         "name": "cause",
         "orig_sent": "Both the Q163X and the R120Q mutation cause demyelination and axonal loss."
     },
-    "group": "edges",
+    "group": "edges"
 },
 {
     "data": {
@@ -112,7 +112,7 @@
         "name": "exhibit",
         "orig_sent": "(KCNA1 G724C) exhibit partial epilepsy and myokymia but no ataxic episodes, supporting the suggestion that there is an association between mutations of KCNA1 and epilepsy."
     },
-    "group": "edges",
+    "group": "edges"
 },
 {
     "data": {
@@ -121,7 +121,7 @@
         "name": "cause",
         "orig_sent": "Both the Q163X and the R120Q mutation cause demyelination and axonal loss."
     },
-    "group": "edges",
+    "group": "edges"
 },
 {
     "data": {
@@ -130,7 +130,7 @@
         "name": "exhibit",
         "orig_sent": "(KCNA1 G724C) exhibit partial epilepsy and myokymia but no ataxic episodes, supporting the suggestion that there is an association between mutations of KCNA1 and epilepsy."
     },
-    "group": "edges",
+    "group": "edges"
 },
 {
     "data": {
@@ -139,7 +139,7 @@
         "name": "exhibit",
         "orig_sent": "(KCNA1 G724C) exhibit partial epilepsy and myokymia but no ataxic episodes, supporting the suggestion that there is an association between mutations of KCNA1 and epilepsy."
     },
-    "group": "edges",
+    "group": "edges"
 },
 {
     "data": {
