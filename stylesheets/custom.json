@@ -1,0 +1,45 @@
+[
+    {
+        "selector": "node",
+        "style": {
+          "content": "data(name)",
+          "font-size": "12px",
+          "text-valign": "center",
+          "text-halign": "center",
+          "background-color": "#FFF",
+          "text-outline-color": "#555",
+          "text-outline-width": "2px",
+          "color": "#fff",
+          "overlay-padding": "6px",
+          "z-index": "10"
+        }
+    },
+    {
+        "selector": "node[type='disease']",
+        "style": {
+          "background-color": "#AAEEAA"
+        }
+    },
+    {
+        "selector": "node[type='gene']",
+        "style": {
+          "background-color": "#EEEEAA"
+        }
+    },
+    {
+        "selector": "node[type='variant']",
+        "style": {
+          "background-color": "#EEAAAA"
+        }
+    },
+    {
+        "selector": "edge",
+        "style": {
+            "opacity": "0.4",
+            "content": "data(name)",
+            'target-arrow-shape': 'triangle',
+            'curve-style': 'bezier'
+        
+        }
+    }
+]

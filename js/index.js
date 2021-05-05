@@ -110,8 +110,12 @@
         startAngle: Math.PI * 1 / 6
       },
       custom: { // replace with your own layout parameters
-        name: 'preset',
-        padding: layoutPadding
+        name: 'cloa',
+        nodeSpacing: 5,
+        edgeLengthVal: 45,
+        animate: true,
+        randomize: false,
+        maxSimulationTime: 1500
       }
     };
     let prevLayout;
